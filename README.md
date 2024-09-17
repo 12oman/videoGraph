@@ -3,7 +3,7 @@
 
 A performance work using cellphones. 
 
-## videoGraph instructions
+## instructions
 
 
 Gather a group of people, each with a mobile phone. 
